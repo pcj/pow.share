@@ -43,7 +43,7 @@ article.bespoke-parent {
   }
 }
 article.bespoke-parent.green {
-  background: #00f3a5;
+  background: #2b7bb9;
 }
 article.bespoke-parent.white {
   background: #fff;
@@ -241,7 +241,7 @@ li.bespoke-bullet-inactive {
   transition: width 0.6s ease;
   position: absolute;
   height: 100%;
-  background: #00c284;
+  background: #226294;
 }
 .emphatic,
 .emphatic .bespoke-slide {
@@ -318,7 +318,7 @@ small {
   font-size: 50%;
 }
 a {
-  color: #00f3a5;
+  color: #2b7bb9;
   text-decoration: none;
 }
 a.black {
@@ -328,7 +328,7 @@ a.black {
   color: rgba(0,0,0,0.7);
 }
 .bespoke-slide.light h1 a {
-  color: #00f3a5;
+  color: #2b7bb9;
 }
 .avatar {
   display: block;
@@ -342,6 +342,9 @@ a.black {
   width: 70px;
   height: 70px;
 }
+.blue {
+  color: #2b7bb9;
+}
 .logo {
   background-position: center;
   background-repeat: no-repeat;
@@ -351,6 +354,9 @@ a.black {
   -moz-background-size: 25%;
   background-size: 25%;
   background-image: url("../images/gulp.png");
+}
+.diff {
+  color: #fff;
 }
 .gif {
   -webkit-background-size: cover;
@@ -410,4 +416,31 @@ a.black {
 }
 .gif--future {
   background-image: url("../images/gif/future.gif");
+}
+.gif--bat {
+  background-image: url("../images/gif/bat.gif");
+}
+.gif--disappoint {
+  background-image: url("../images/gif/disappoint.gif");
+}
+.gif--headscream {
+  background-image: url("../images/gif/headscream.gif");
+}
+.gif--louis {
+  background-image: url("../images/gif/louis.gif");
+}
+.gif--scream {
+  background-image: url("../images/gif/scream.gif");
+}
+.gif--stewart {
+  background-image: url("../images/gif/stewart.gif");
+}
+.gif--cats {
+  background-image: url("../images/gif/cats.gif");
+}
+.gif--woman {
+  background-image: url("../images/gif/woman.gif");
+}
+.gif--goal {
+  background-image: url("../images/gif/goal.gif");
 }
