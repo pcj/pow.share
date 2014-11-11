@@ -1,5 +1,5 @@
 {
-  "name": "build-wars-gulp-vs-grunt-bespoke",
+  "name": "pubref.io",
   "version": "0.0.0",
   "dependencies": {
     "bespoke.js": "~0.4.0",
