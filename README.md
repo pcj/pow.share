@@ -1,4 +1,4 @@
-# Pow.share: Making is less painful to publish your research
+# Pubref.io: Making it less painful to publish your research
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/pcj/generator-bespoke)
 
 ## View slides locally
